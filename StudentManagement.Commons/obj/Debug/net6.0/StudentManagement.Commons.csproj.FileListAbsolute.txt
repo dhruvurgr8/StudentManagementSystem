@@ -1,0 +1,12 @@
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\bin\Debug\net6.0\StudentManagement.Commons.deps.json
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\bin\Debug\net6.0\StudentManagement.Commons.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\bin\Debug\net6.0\StudentManagement.Commons.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\StudentManagement.Commons.csproj.AssemblyReference.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\StudentManagement.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\StudentManagement.Commons.AssemblyInfoInputs.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\StudentManagement.Commons.AssemblyInfo.cs
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\StudentManagement.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\StudentManagement.Commons.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\refint\StudentManagement.Commons.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\StudentManagement.Commons.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.Commons\obj\Debug\net6.0\ref\StudentManagement.Commons.dll

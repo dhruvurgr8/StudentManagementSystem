@@ -1,0 +1,17 @@
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.deps.json
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.runtimeconfig.json
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.Commons.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.Commons.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.AssemblyInfo.cs
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.csproj.CopyComplete
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\refint\StudentManagement.DAL.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.genruntimeconfig.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\ref\StudentManagement.DAL.dll

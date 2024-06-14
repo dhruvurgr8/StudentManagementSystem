@@ -1,0 +1,17 @@
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.ConnectioModels.deps.json
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.ConnectioModels.runtimeconfig.json
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.ConnectioModels.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.ConnectioModels.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.Commons.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.Commons.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.csproj.AssemblyReference.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.AssemblyInfoInputs.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.AssemblyInfo.cs
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.csproj.CoreCompileInputs.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.csproj.CopyComplete
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\refint\StudentManagement.ConnectioModels.dll
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.pdb
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.ConnectioModels.genruntimeconfig.cache
+C:\Users\Arna Softech\Desktop\app\Practice\StudentManagement3Tier\StudentManagement.DAL\obj\Debug\net6.0\ref\StudentManagement.ConnectioModels.dll
